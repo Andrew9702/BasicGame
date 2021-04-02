@@ -1,2 +1,3 @@
-# BasicGame
-Un juego en Unity, bastante simple pero la pasé bien haciendolo xD (baia kk de descripcion)
+# Plane simulator game
+
+A game made with Unity. Plane game about collect coins and avoid doves. 
